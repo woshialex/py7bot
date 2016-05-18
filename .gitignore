@@ -1,0 +1,12 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.swp
+
+.ipynb_checkpoints
+
+#data file
+*.hdf5
+*.csv
+*.npz
